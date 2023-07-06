@@ -4,7 +4,9 @@ from INTELLIGENT_ENGINE.lstm_test import cropRecommend
 app = Flask(__name__)
 CORS(app)   
 
-
+@app.route('/')
+def main():
+    return "<h1> only for api usage</h1>"
 
 @app.route('/form',methods=['POST'])
 def index():
@@ -12,6 +14,8 @@ def index():
     Predicted_JSON=cropRecommend(send)
     print(Predicted_JSON)
     return jsonify(Predicted_JSON)
+
+
 
 if __name__ == "__main__":
 
