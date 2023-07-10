@@ -1,5 +1,5 @@
 
-The User-Interface Repository for the Whole System is at [THIS REPO](https://github.com/VamshiKrishna-jillela/Crop-Prediction-UI) is live at [WEBSITE](1mc.netlify.app)
+The User-Interface Repository for the Whole System is at [THIS REPO](https://github.com/VamshiKrishna-jillela/Crop-Prediction-UI) is live at [WEBSITE](https://1mc.netlify.app/)
 
 This README provides information about the dataset and the Long Short-Term Memory (LSTM) model associated with it and Steps to Deploy a Trained Model and Steps to Use an Deployed Model Through API requests
 
