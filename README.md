@@ -5,7 +5,7 @@ This README provides information about the dataset and the Long Short-Term Memor
 
 ## Trained Model Deployment Process
 
-To deploy this RNN LSTM model on your Server/Machine and access its predictions through an HTTP API request, follow the instructions below.
+To deploy this RNN LSTM models on your Server/Machine and access its predictions through an HTTP API request, follow the instructions below.
 
 ## Setting up the Environment
 
