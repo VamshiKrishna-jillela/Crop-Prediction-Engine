@@ -3,6 +3,10 @@ The User-Interface Repository for the Whole System is at [THIS REPO](https://git
 
 This README provides information about the dataset and the Long Short-Term Memory (LSTM) model associated with it and Steps to Deploy a Trained Model and Steps to Use an Deployed Model Through API requests
 
+
+## PROJECT FLOW
+  ![image](https://github.com/user-attachments/assets/ffbd6f55-6f1d-4f36-95e7-c3c8cd0f13e2)
+
 ## Trained Model Deployment Process
 
 To deploy this RNN LSTM models on your Server/Machine and access its predictions through an HTTP API request, follow the instructions below.
